@@ -31,7 +31,7 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
-
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -111,9 +111,9 @@ Publish the website in the LocalHost.
   </div>
 </body>
 </html>
+```
 ## OUTPUT:
-![WhatsApp Image 2025-04-28 at 11 33 24 AM](https://github.com/user-attachments/assets/7ec06d06-29d7-4600-9c5b-ebb48e1b0036)
-
-
+**![web book](https://github.com/user-attachments/assets/a0478935-426e-4a97-9fa2-fbc2021c4767)
+**
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
