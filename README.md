@@ -112,7 +112,8 @@ Publish the website in the LocalHost.
 </body>
 </html>
 ## OUTPUT:
-![alt text](book.png.jpeg)
+![WhatsApp Image 2025-04-28 at 11 33 24 AM](https://github.com/user-attachments/assets/7ec06d06-29d7-4600-9c5b-ebb48e1b0036)
+
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
